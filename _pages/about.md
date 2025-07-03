@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research and Learning with a Local LLM based agent through a use case: exploring extraterrestrial intelligence. Tell the world about yourself. 
+subtitle: <a href='#'>Affiliations</a>. Research and Learning with a Local LLM based agent through a use case: exploring extraterrestrial intelligence. 
 
 profile:
   align: right
