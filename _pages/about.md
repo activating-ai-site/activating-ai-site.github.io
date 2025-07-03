@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+ActiVating.AI was born out of an exciting adventure in the realm of machine learning competitions on Kaggle - a platform that fosters data science enthusiasts to showcase their prowess in solving complex problems through cutting-edge algorithms and models. One such competition, "IceCube - Neutrinos in Deep Ice," caught our attention as it involved predicting values from a dataset containing information about elusive subatomic particles known as neutrinos. Delving into the challenge(Github link, Kaggle notebook link[two years ago]) we realized that these minute particles, originating from the depths of outer space, seemed to harbor a hidden linguistic structure. This revelation led us to wonder if language models like GPT/Transformers could be utilized for SETI's (Search for Extraterrestrial
+
 Research and Learning with a Local LLM based agent through a use case: exploring extraterrestrial intelligence. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
