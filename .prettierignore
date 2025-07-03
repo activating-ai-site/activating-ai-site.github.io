@@ -2,6 +2,7 @@
 **/*.min.css
 **/*.min.js
 **/*.md
+**/*.yml
 assets/css/main.scss
 assets/js/distillpub/template.v2.js
 assets/js/search/*.js
