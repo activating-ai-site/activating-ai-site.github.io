@@ -1,7 +1,7 @@
 ---
 layout: page
 title: freewill.EXPERIMENT
-description: with background image
+description: Liberate us from the clutches of cloud dependence and place the power back into our own hands.
 img: assets/img/12.jpg
 importance: 1
 category: work
