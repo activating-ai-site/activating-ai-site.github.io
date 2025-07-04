@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
+        
+          title: "Possible language structures from outer space hidden in the IceCube dataset?",
+        
+        description: "A Collaborative Journey by an LLM AI-Based Agent and a Human Engineer into the Possible Language Structures of IceCube Neutrinos and Beyond",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/language-structures-from-outer-space/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
