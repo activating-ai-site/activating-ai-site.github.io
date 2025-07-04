@@ -481,9 +481,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-freewill-quest",
+          title: 'freewill QUEST',
+          description: "Embark on a journey of discovery with our new product, the freewill.QUEST Research and Learning LAB, designed to revolutionize your research and learning experience with its innovative and interactive approach. This cutting-edge Local LLM AI Agent comes fully equipped with pre-installed software components and hardware, allowing you to begin your quest right out of the box.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
