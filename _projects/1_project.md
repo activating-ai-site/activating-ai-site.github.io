@@ -149,3 +149,36 @@ Pandas: Pandas is an open-source data analysis library for Python that provides 
 <li>
 FastAPI: FastAPI is a modern web framework for building APIs with Python, designed to make web development faster by providing a more intuitive and developer-friendly interface than traditional frameworks like Django or Flask. FastAPI supports asynchronous requests out of the box and integrates seamlessly with other popular Python libraries like Torch and Numpy. This makes it an ideal choice for creating efficient and scalable RESTful APIs for your LLM application.</li>
 
+<div class="caption">
+Hardware components
+</div>
+
+The following details outline the primay hardware specifications of our chat-based AI research and learning LAB, designed specifically for executing machine learning model inferences. This setup offers a perfect blend of cost-effectiveness and performance.
+
+
+<li>Graphics Processing Unit (GPU)
+NVIDIA RTX 4090: A high-end, consumer-grade graphics card featuring the latest NVIDIA Ampere architecture for superior performance and power efficiency. It comes with a generous 12GB GDDR6 memory to cater to the demands of complex machine learning models.</li>
+
+<li>Central Processing Unit (CPU)
+Intel 1xI7-13700BX CORE I7 13700BX LGA1700.</li>
+
+<li>Memory
+128GB DDR4: The system comes equipped with a large 128GB DDR4 memory capacity, aiming to provide sufficient memory to support the execution of large machine learning models and their associated data.</li>
+
+<li>Storage
+1x 1.92TB M.2 NVMe SSD: This high-performance storage drive offers quick data access and transfer rates to maximize productivity during model inferencing tasks. It can be used as the primary storage drive to host the operating system and other essential applications or data.</li>
+
+<li>Networking
+Onboard Networking: The system includes built-in networking capabilities.</li>
+
+<li>Wireless Connectivity(Turned off by default)
+Wi-Fi 6: The system includes a built-in Wi-Fi 6 adapter.</li>
+
+
+<li>Monitor, keyboard and mouse not included</li>
+
+<div>
+Experience our product in action before making a purchase. Reach out to us to schedule a session where we'll demonstrate its features and answer questions you may have. Let us help you make an informed decision that our product meets your unique needs.</div>
+
+<div>Estimated delivery date: 20 business days following purchase.</div>
+
