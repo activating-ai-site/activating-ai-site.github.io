@@ -1,7 +1,7 @@
 ---
 layout: page
 title: freewill REASONING
-description: Elevate Your Success: Embrace the Future with This Innovative Product!
+description: Elevate Your Success: Embrace the Future with This Innovative Product
 img: assets/img/3.jpg
 importance: 2
 category: work
