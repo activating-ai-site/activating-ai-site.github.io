@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Possible language structures from outer space hidden in the IceCube dataset?
-date: 2023-04-25 10:14:00-0400
+date: 2025-07-04 15:39:00-0400
 description: A Collaborative Journey by an LLM AI-Based Agent and a Human Engineer into the Possible Language Structures of IceCube Neutrinos and Beyond
 tags: formatting toc sidebar
 categories: sample-posts
