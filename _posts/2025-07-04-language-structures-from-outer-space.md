@@ -11,6 +11,7 @@ toc:
   sidebar: left
 ---
 
+{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_21-02-11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 This post shows how to add a table of contents as a sidebar.
 
 ## Prologue
@@ -52,11 +53,15 @@ If you want to learn more about how to customize the table of contents of your s
 
 ### The first major disagreement with freeWill
 
+{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_15-45-06.png  class="img-fluid rounded z-depth-1" zoomable=true %}
+
 We encountered our first major disagreement when I proposed a theory, that seemed counterintuitive, to Free will agent's understanding, that language structures could be embedded inside Neutrino Dataset, gathered from South Pole IceCube Observatory
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
 ### Finding common ground
+
+{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_20-53-53.png  class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Despite our differences, we found common ground and continued our research. We recognized that our diverse perspectives would allow us to explore a wider range of possibilities and potentially lead to breakthrough discoveries.
 
