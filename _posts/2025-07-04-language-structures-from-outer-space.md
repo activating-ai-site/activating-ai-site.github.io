@@ -53,7 +53,7 @@ If you want to learn more about how to customize the table of contents of your s
 
 ### The first major disagreement with freeWill
 
-{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_15-45-06.png  class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_15-45-06.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
 
 We encountered our first major disagreement when I proposed a theory, that seemed counterintuitive, to Free will agent's understanding, that language structures could be embedded inside Neutrino Dataset, gathered from South Pole IceCube Observatory
 
@@ -61,7 +61,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 ### Finding common ground
 
-{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_20-53-53.png  class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_20-53-53.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Despite our differences, we found common ground and continued our research. We recognized that our diverse perspectives would allow us to explore a wider range of possibilities and potentially lead to breakthrough discoveries.
 
