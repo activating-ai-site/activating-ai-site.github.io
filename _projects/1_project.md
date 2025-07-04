@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+Transcends the realm of philosophical musings and ventures into the heart of technology. It stands as an embodiment of an innovative fusion of on-premises AI Research and Learning Lab, readymade hardware setups, and preconfigured software elements. This harmonious blend promises to liberate us from the clutches of cloud dependence and place the power back into our own hands.
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
