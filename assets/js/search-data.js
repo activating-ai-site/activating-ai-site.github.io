@@ -452,7 +452,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-freewill-experiment",
-          title: 'freewill.EXPERIMENT',
+          title: 'freewill EXPERIMENT',
           description: "Liberate us from the clutches of cloud dependence and place the power back into our own hands.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
