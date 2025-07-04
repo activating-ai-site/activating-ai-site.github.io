@@ -453,7 +453,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-freewill-experiment",
           title: 'freewill.EXPERIMENT',
-          description: "with background image",
+          description: "Liberate us from the clutches of cloud dependence and place the power back into our own hands.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
