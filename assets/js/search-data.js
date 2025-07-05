@@ -83,17 +83,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/Collaborating-with-AI-Agent-In-Local-LAB/";
           
         },
-      },{id: "post-indispensable-role-of-an-independent-local-ai-research-labs-for-teachers",
-        
-          title: "Indispensable Role of an Independent, Local AI Research Labs for Teachers",
-        
-        description: "An AI Companion for Every Educator - Preparing for the Future in Education",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Indispensable-Role-of-an-Independent-Local-AI-Research-Labs/";
-          
-        },
       },{id: "post-faq",
         
           title: "FAQ",
@@ -136,6 +125,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-indispensable-role-of-an-independent-local-ai-research-labs-for-teachers",
+        
+          title: "Indispensable Role of an Independent, Local AI Research Labs for Teachers",
+        
+        description: "An AI Companion for Every Educator - Preparing for the Future in Education",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Indispensable-Role-of-an-Independent-Local-AI-Research-Labs/";
           
         },
       },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
