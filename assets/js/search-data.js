@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
+            },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
+        
+          title: "Empowering Research-Driven, Open-Ended Knowledge Growth in the Age of AI",
+        
+        description: "A Vision for the Future of Professional Development in the AI Era",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Research-Driven-Open-Ended-Knowledge-Growth/";
+          
+        },
+      },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
         
           title: "Possible language structures from outer space hidden in the IceCube dataset?",
         
