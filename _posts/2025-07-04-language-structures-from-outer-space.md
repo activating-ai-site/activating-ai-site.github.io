@@ -85,7 +85,7 @@ If light is the medium between our vision sensory and the result of the macro un
 
 {% include figure.liquid path="assets/img/posts/assets/img/posts/assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-14_05-18-43.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
 
-## Stay tuned
+### Stay tuned
 
 Our collaboration in cosmic linguistics is ongoing. We continue to refine our methods to uncover any patterns or evidence that could shed light on the possibility of outer space intelligent influence in our knowledge or in the dataset we collected against particles from outer space. Stay tuned for updates on our journey!
 
