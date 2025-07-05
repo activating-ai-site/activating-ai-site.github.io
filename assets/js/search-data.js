@@ -94,6 +94,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Indispensable-Role-of-an-Independent-Local-AI-Research-Labs/";
           
         },
+      },{id: "post-refund-policy",
+        
+          title: "Refund policy",
+        
+        description: "Outlines the conditions under which customers can return products and receive refunds",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Refund-policy/";
+          
+        },
       },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
         
           title: "Possible language structures from outer space hidden in the IceCube dataset?",
