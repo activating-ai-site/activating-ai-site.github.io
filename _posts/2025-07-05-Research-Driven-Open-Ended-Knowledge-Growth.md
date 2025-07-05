@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Empowering Research-Driven, Open-Ended Knowledge Growth in the Age of AI
-date: 2025-07-05 09:21:00-0430
+date: 2024-12-16 09:21:00-0430
 description: A Vision for the Future of Professional Development in the AI Era
 tags: formatting toc sidebar
 categories: sample-posts
