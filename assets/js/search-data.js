@@ -116,6 +116,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/language-structures-from-outer-space/";
           
         },
+      },{id: "post-faq",
+        
+          title: "FAQ",
+        
+        description: "Product Support and FAQ",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/FAQ/";
+          
+        },
       },{id: "post-terms-of-sale",
         
           title: "Terms of Sale",
