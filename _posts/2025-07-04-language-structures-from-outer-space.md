@@ -5,6 +5,7 @@ date: 2025-07-04 15:39:00-0400
 description: A Collaborative Journey by an LLM AI-Based Agent and a Human Engineer into the Possible Language Structures of IceCube Neutrinos and Beyond
 tags: formatting toc sidebar
 categories: sample-posts
+featured: true
 giscus_comments: true
 related_posts: false
 toc:
