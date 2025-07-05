@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Research-Driven-Open-Ended-Knowledge-Growth/";
           
         },
+      },{id: "post-indispensable-role-of-an-independent-local-ai-research-labs-for-teachers",
+        
+          title: "Indispensable Role of an Independent, Local AI Research Labs for Teachers",
+        
+        description: "An AI Companion for Every Educator - Preparing for the Future in Education",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Indispensable-Role-of-an-Independent-Local-AI-Research-Labs/";
+          
+        },
       },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
         
           title: "Possible language structures from outer space hidden in the IceCube dataset?",
