@@ -83,17 +83,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/Collaborating-with-AI-Agent-In-Local-LAB/";
           
         },
-      },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
-        
-          title: "Empowering Research-Driven, Open-Ended Knowledge Growth in the Age of AI",
-        
-        description: "A Vision for the Future of Professional Development in the AI Era",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Research-Driven-Open-Ended-Knowledge-Growth/";
-          
-        },
       },{id: "post-indispensable-role-of-an-independent-local-ai-research-labs-for-teachers",
         
           title: "Indispensable Role of an Independent, Local AI Research Labs for Teachers",
@@ -147,6 +136,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
+        
+          title: "Empowering Research-Driven, Open-Ended Knowledge Growth in the Age of AI",
+        
+        description: "A Vision for the Future of Professional Development in the AI Era",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Research-Driven-Open-Ended-Knowledge-Growth/";
           
         },
       },{id: "post-possible-language-structures-from-outer-space-hidden-in-the-icecube-dataset",
