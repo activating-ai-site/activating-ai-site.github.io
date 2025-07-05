@@ -5,6 +5,7 @@ date: 2025-07-05 09:21:00-0430
 description: A Vision for the Future of Professional Development in the AI Era
 tags: formatting toc sidebar
 categories: sample-posts
+featured: true
 giscus_comments: true
 related_posts: false
 toc:
