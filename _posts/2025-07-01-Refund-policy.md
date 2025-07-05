@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refund policy
-date: 2025-07-05 09:21:00-0430
+date: 2025-07-01 10:00:00-0430
 description: Outlines the conditions under which customers can return products and receive refunds
 tags: formatting toc sidebar
 categories: sample-posts
