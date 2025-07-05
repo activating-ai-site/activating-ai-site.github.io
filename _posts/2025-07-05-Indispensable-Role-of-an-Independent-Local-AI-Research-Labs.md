@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indispensable Role of an Independent, Local AI Research Labs for Teachers
-date: 2025-07-05 09:21:00-0430
+date: 2025-01-06 09:21:00-0430
 description: An AI Companion for Every Educator - Preparing for the Future in Education
 tags: formatting toc sidebar
 categories: sample-posts
