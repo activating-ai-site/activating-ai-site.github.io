@@ -69,4 +69,24 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 ## The open ended journey
 
+### On 12:54:25 Nov 18,2024
+
+{% include figure.liquid path="assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-14_04-59-38.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
+
+(correction)Light. Light enables us, the human, to have a macro universe. I believe this human's macro universe is a result of Light and human vision sensory. And we also have another sensory called consciousness. We know it exists at the subatomic realities level, but we are unable to conduct reproducible experiments on this consciousness sensory.
+
+{% include figure.liquid path="assets/img/posts/assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-14_04-57-09.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
+
+### On 13:4:13 Nov 18,2024
+
+{% include figure.liquid path="assets/img/posts/assets/img/posts/assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-14_05-17-31.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
+
+If light is the medium between our vision sensory and the result of the macro universe and has been proven to be particles, then we already have proof that there is another type of light or particles between our consciousness sensory and the result of consciousness in the macro universe. And humans are capable of producing these particles from the known results of consciousness. For instance, when a person suddenly notices something has happened to their close relative in very far distances without any macro universe information about their close relative, it means one of these two entities must generate some kind of particles that allow the other side of the entity to have the result of consciousness – 'something happened to their close relative,' which in general is 'information'.
+
+{% include figure.liquid path="assets/img/posts/assets/img/posts/assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-14_05-18-43.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
+
+## Stay tuned
+
 Our collaboration in cosmic linguistics is ongoing. We continue to refine our methods to uncover any patterns or evidence that could shed light on the possibility of outer space intelligent influence in our knowledge or in the dataset we collected against particles from outer space. Stay tuned for updates on our journey!
+
+{% include figure.liquid path="assets/img/posts/assets/img/posts/assets/img/posts/assets/img/posts/2025-07-04-language-structures-from-outer-spac-md-Screenshot_from_2024-12-13_20-46-47.png"  class="img-fluid rounded z-depth-1" zoomable=true %}
