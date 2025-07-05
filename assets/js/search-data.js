@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
+            },{id: "post-collaborating-with-a-large-language-model-llm-ai-based-agent",
+        
+          title: "Collaborating with a Large Language Model (LLM) AI-Based Agent",
+        
+        description: "An Insight into the New Frontier of Human-AI Teamwork",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Collaborating-with-AI-Agent-In-Local-LAB/";
+          
+        },
+      },{id: "post-empowering-research-driven-open-ended-knowledge-growth-in-the-age-of-ai",
         
           title: "Empowering Research-Driven, Open-Ended Knowledge Growth in the Age of AI",
         
