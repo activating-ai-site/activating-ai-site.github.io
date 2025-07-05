@@ -105,6 +105,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/language-structures-from-outer-space/";
           
         },
+      },{id: "post-terms-of-sale",
+        
+          title: "Terms of Sale",
+        
+        description: "specific conditions under which goods or services are sold, outlining the rights and responsibilities of both the seller and the buyer.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Terms-of-Sale/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
